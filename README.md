@@ -12,3 +12,5 @@
 
 ## [typora for Markdown](https://www.typora.io/)
    > I like this editer for Markdown!
+## [jenkins](https://jenkins.io)
+   > if you want CI/CD, you need this!
